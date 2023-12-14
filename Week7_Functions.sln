@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7_Functions", "Week7_Functions\Week7_Functions.csproj", "{CA9CE7A9-E344-4294-A282-C8036B034901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7 Calculator", "Week7 Calculator\Week7 Calculator.csproj", "{B1DD3957-BE93-40FD-A4F5-EBAA1E9EBEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9CE7A9-E344-4294-A282-C8036B034901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9CE7A9-E344-4294-A282-C8036B034901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9CE7A9-E344-4294-A282-C8036B034901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9CE7A9-E344-4294-A282-C8036B034901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DD3957-BE93-40FD-A4F5-EBAA1E9EBEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DD3957-BE93-40FD-A4F5-EBAA1E9EBEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DD3957-BE93-40FD-A4F5-EBAA1E9EBEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DD3957-BE93-40FD-A4F5-EBAA1E9EBEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D4B672-1A49-4180-A78E-8D3DABC694FD}
+	EndGlobalSection
+EndGlobal
